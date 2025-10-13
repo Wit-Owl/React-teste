@@ -1,8 +1,8 @@
 {
-  "name": "react-demo",
+  "name": "react-teste",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://anselmocouto.github.io/react-demo",
+  "homepage": "https://github.com/Wit-Owl/React-teste.git",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
